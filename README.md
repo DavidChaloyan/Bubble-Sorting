@@ -6,3 +6,11 @@
    Call make the package in your current directory for creating the program
 ```
 make 
+
+```
+## Using Program
+   Use the program using this command
+```
+./bubblemain.cpp
+
+```
